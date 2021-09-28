@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D8970CF4-0B93-4EFC-B990-3D902A0AFCCC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DjangouWebApp/Models/Movie.cs">
+    <Files>
+      <File FileName="DjangouWebApp/Models/Movie.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DjangouWebApp" expanded="True">
+            <Node name="DjangouWebApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Movie.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DjangouWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
